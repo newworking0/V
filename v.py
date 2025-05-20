@@ -1814,8 +1814,3 @@ def is_bot_stopped():
 
 # Start the bot
 bot.polling()
-bot_stopped():
-    return os.path.exists("stop.stop")
-
-# Start the bot
-bot.polling()
